@@ -1,0 +1,32 @@
+1526199946531	geckodriver	INFO	geckodriver 0.20.1
+1526199946545	geckodriver	INFO	Listening on 127.0.0.1:52632
+1526199949611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.QDgJtcm2hNZ0"
+1526199950743	Marionette	INFO	Listening on port 2828
+1526199966251	geckodriver	INFO	geckodriver 0.20.1
+1526199966258	geckodriver	INFO	Listening on 127.0.0.1:52669
+1526199969315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.rlsG9ihop5N8"
+1526199970028	Marionette	INFO	Listening on port 2828
+[Child 14216] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 14216] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1526200092708	geckodriver	INFO	geckodriver 0.20.1
+1526200092712	geckodriver	INFO	Listening on 127.0.0.1:52769
+1526200095765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.yv83WdGtaanc"
+1526200107782	geckodriver	INFO	geckodriver 0.20.1
+1526200107782	geckodriver	INFO	Listening on 127.0.0.1:52792
+1526200110848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.5so8edrQe92M"
+1526200111530	Marionette	INFO	Listening on port 2828
+1526200168432	geckodriver	INFO	geckodriver 0.20.1
+1526200168439	geckodriver	INFO	Listening on 127.0.0.1:52860
+1526200171501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.ymcvEMcsf5SI"
+1526200172182	Marionette	INFO	Listening on port 2828
+[Child 9128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 9128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1526200360481	geckodriver	INFO	geckodriver 0.20.1
+1526200360497	geckodriver	INFO	Listening on 127.0.0.1:53052
+1526200363533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\IONUTN~1\\AppData\\Local\\Temp\\rust_mozprofile.5aPwMIRMgpJk"
+1526200364240	Marionette	INFO	Listening on port 2828
+[Child 14580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 14580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+e	INFO	Listening on port 2828
+[Child 10736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345

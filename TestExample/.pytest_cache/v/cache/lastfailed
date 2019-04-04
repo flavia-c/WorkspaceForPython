@@ -1,0 +1,6 @@
+{
+  "TestLogin.py::TestLogin::()::test_empty_account": true,
+  "TestLogin.py::TestLogin::()::test_incorrect_account": true,
+  "TestLogin.py::TestLogin::()::test_login_correct_account": true,
+  "TestLogin.py::TestLogin::()::test_wrong_password": true
+}

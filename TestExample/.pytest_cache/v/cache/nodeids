@@ -1,0 +1,5 @@
+[
+  "TestLogin.py::TestLogin::()::test_incorrect_account",
+  "TestLogin.py::TestLogin::()::test_empty_account",
+  "TestLogin.py::TestLogin::()::test_wrong_password"
+]
